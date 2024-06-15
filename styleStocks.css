@@ -1,0 +1,441 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Montserrat;
+}
+
+header {
+  background-color: #fff9ea;
+  height: 45px;
+  font-size: 16px;
+}
+
+.header-row {
+  display: flex;
+  padding-top: 12px;
+}
+
+.header-r {
+  display: flex;
+  margin-left: 20px;
+  column-gap: 80px;
+}
+
+.header-l {
+  display: flex;
+  margin-left: auto;
+  margin-right: 20px;
+  column-gap: 20px;
+}
+
+.header-icon {
+  display: flex;
+  align-items: center;
+}
+
+.header-icon img {
+  margin-right: 15px;
+}
+
+header span {
+  color: #5a4c35;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  color: #5a4c35;
+}
+
+.sect1 {
+  height: 727px;
+  background: #fff9ea;
+}
+
+nav {
+  display: flex;
+  column-gap: 120px;
+  margin-left: 137px;
+  padding-top: 62px;
+  color: #5a4c35;
+  font-weight: 600;
+  font-size: 24px;
+}
+
+nav span {
+  color: #877a64;
+}
+
+.article1 {
+  width: 1248px;
+  height: 512px;
+  background-color: #edd9d3;
+  border-radius: 24px;
+  position: relative;
+  margin-left: 96px;
+  margin-top: 63px;
+}
+
+.article1 h1 {
+  color: #5f4c0b;
+  padding-left: 248px;
+  padding-top: 48px;
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+}
+
+.article1 p {
+  color: #5a4c35;
+  font-size: 27px;
+  font-weight: 700;
+  left: 109px;
+  top: 143px;
+  position: absolute;
+  text-align: center;
+}
+
+.ellips {
+  position: absolute;
+  left: 1013px;
+  bottom: 534px;
+}
+
+.basket {
+  position: absolute;
+  left: 949px;
+  bottom: 824px;
+}
+
+.sect2 {
+  background-color: #edd9d3;
+  position: relative;
+  height: 702px;
+}
+.sect2 img {
+  position: absolute;
+}
+.ellips11 {
+  bottom: 495px;
+  left: 85px;
+}
+.stock {
+  bottom: 444px;
+  left: 42px;
+}
+
+.bonus {
+  display: flex;
+  column-gap: 35px;
+  margin-left: 50px;
+  padding-top: 278px;
+}
+
+.bonus article {
+  width: 445px;
+  height: 316px;
+  background-color: #fff9ea;
+  border-radius: 24px;
+}
+
+.bonus article h2 {
+  color: #ff7c7c;
+  font-size: 32px;
+  font-weight: 700;
+  text-align: center;
+  padding-top: 21px;
+}
+
+.bonus article p {
+  padding-left: 21px;
+  color: #877a64;
+  font-weight: 700;
+  font-size: 15px;
+}
+
+.txt{
+  padding-top: 25px;
+}
+
+.txtP{
+  padding-top: 16px;
+}
+
+.bonus article span {
+  color: #ff7c7c;
+}
+
+.pank{
+  left: 155px;
+  bottom: 46px;
+}
+
+.boksOr{
+  left: 527px;
+  bottom: 23px;
+}
+
+.boksPi{
+  left: 710px;
+  bottom: 7px;
+}
+
+.card{
+  left: 1165px;
+  bottom: -15px;
+}
+
+.sectBonus{
+  height: 609px;
+  background-color: #edd9d3;
+}
+
+.h2-Bonus{
+  font-size: 64px;
+  font-weight: 700;
+  color: #53451F;
+  padding-top: 68px;
+  margin-left: 370px;
+}
+
+.divBonus{
+  height: 341px;
+  border-radius: 24px;
+  background-color: #fff9ea;
+  margin-top: 71px;
+  width: 1383px;
+  margin-left: 60px;
+}
+.divBonus p{
+  font-size: 27px;
+  font-weight: 600;
+  line-height: 45px;
+  color: #877a64;
+  padding: 54px 54px 0px 54px;
+}
+.divBonus p span{
+  color: #ff7c7c;
+}
+
+.buttons{
+  display: flex;
+  column-gap: 151px;
+  margin-left: 543px;
+  padding-top: 47px;
+}
+
+.buttons button{
+  width: 314px;
+  height: 74px;
+  background-color: #edd9d3;
+  border: none;
+  border-radius: 24px;
+}
+.buttons button div{
+  color: #53451F;
+  font-weight: 700;
+  font-size: 36px;
+}
+
+.sectionBirth{
+  height: 2538px;
+  background-color: #fff9ea;
+  position: relative;
+}
+
+.divBirth{
+  display: flex;
+}
+
+.divBirth div{
+  display: block;
+}
+
+.Cake{
+  position: absolute;
+  left: 46px;
+  bottom: 2094px;
+}
+
+.divBirth h2{
+  font-size: 64px;
+  font-weight: 700;
+  color: #53451F;
+  margin-left: 489px;
+  padding-top: 63px;
+}
+
+.BithP{
+  text-align: center;
+  color: #877A64;
+  font-size: 32px;
+  font-weight: 700;
+  padding-top: 76px;
+  padding-left: 395px;
+}
+
+.El13{
+  position: absolute;
+  left: 1230px;
+  bottom: 2112px;
+}
+
+.img15{
+  position: absolute;
+  left: 1239px;
+  top: 380px;
+}
+
+.imgBallon{
+  position: absolute;
+  left: 1170px;
+  bottom: 1700px;
+}
+
+.img16{
+  position: absolute;
+  left: 1294px;
+  bottom: 1345px;
+}
+
+.h3Ak{
+  font-size: 40px;
+  font-weight: 800;
+  color: #53451F;
+  margin-left: 80px;
+  padding-top: 97px;
+}
+
+.Infotmation{
+  width: 1122px;
+  height: 389px;
+  background-color: #EDD9D3;
+  border-radius: 24px;
+  margin-left: 55px;
+  margin-top: 70px;
+}
+
+.Infotmation p{
+  color: #877A64;
+  font-size: 32px;
+  font-weight: 600;
+  padding-top: 43px;
+  padding-left: 27px;
+}
+.Infotmation button{
+  width: 450px;
+  height: 63px;
+  background-color: #fff9ea;
+  border: none;
+  border-radius: 24px;
+  margin-left: 606px;
+  margin-top: 43px;
+}
+
+.divTimM{
+  color: #5A4C35;
+  font-size: 32px;
+  font-weight: 800;
+}
+
+.Infotmation span{
+  color: #ff7c7c;
+}
+
+.surprize{
+  color: #53451F;
+  margin-left: 296px;
+  font-size: 40px;
+  padding-top: 101px;
+  font-weight: 800;
+}
+
+.spanFree{
+  color: #ff7c7c;
+  font-size: 24px;
+  font-weight: 700;
+  margin-left: 79px;
+  padding-top: 60px;
+}
+
+.inform{
+  width: 1241px;
+  height: 127px;
+  background-color: #EDD9D3;
+  margin-left: 68px;
+  margin-top: 24px;
+  border-radius: 24px;
+}
+
+.inform p{
+  color: #877A64;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 32px;
+  padding-left: 23px;
+  padding-top: 35px;
+}
+
+.inform span{
+  color: #ff7c7c;
+}
+
+.divTort{
+  display: flex;
+  column-gap: 120px;
+  margin-left: 23px;
+  margin-top: 20px;
+}
+
+.ps{
+  color: #53451F;
+  font-size: 24px;
+  font-weight: 400;
+  margin-top: 58px;
+  margin-left: 55px;
+  text-align: center;
+}
+
+.End{
+  display: flex;
+}
+.End div{
+  background-color: #EDD9D3;
+  width: 1024px;
+  height: 207px;
+  border-radius: 24px;
+  margin-left: 55px;
+  margin-top: 70px;
+}
+
+.End img{
+  padding-top: 50px;
+  padding-left: 136px;
+}
+
+.End p{
+  color: #5A4C35;
+  font-size: 32px;
+  font-weight: 600;
+  text-align: center;
+  padding-top: 25px;
+}
+
+footer {
+  background-color: #edd9d3;
+  text-align: center;
+}
+
+footer p {
+  color: black;
+  font-size: 24px;
+  font-weight: 700;
+  padding-bottom: 69px;
+  padding-top: 50px;
+}
+
+footer img {
+  padding-top: 13px;
+}
